@@ -12,6 +12,6 @@
     "mongoose-types": ">= 1.0.3",
     "locomotive-mongoose": ">= 0.1.0",
     "bcrypt": ">= 0.5.0",
-    "session-mongoose": "0.0.2"
+    "session-mongoose": "0.5.2"
   }
 }
